@@ -1,0 +1,17 @@
+  body{
+    background-color:#444444;
+	}
+  a{
+  color:white;
+  padding-top:1vh;  padding-bottom:1vh; padding-left:1%; padding-right:1%;
+  text-align:center;  text-decoration:none;
+  font-size:140%; font-family:cambria; width:100%;
+  display:block; border:0.1vw solid white;
+  }
+	
+  a:hover{
+  color:black; background-color:white; border:0.1vw solid white;
+  }
+  label{
+	   color:white; font-size:120%; font-family:cambria; margin-left:2vw; 
+  }
